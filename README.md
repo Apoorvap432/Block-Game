@@ -6,6 +6,9 @@ A simple browser-based Breakout game built with HTML, CSS, and JavaScript.
 
 Breakout Arena is a classic arcade-style game where the player moves a paddle left and right to bounce a ball and break all the blocks on the screen. The game tracks the score and ends when all blocks are cleared.
 
+<img width="1886" height="862" alt="image" src="https://github.com/user-attachments/assets/388593a2-7620-46bc-a214-49c38dd937c2" />
+
+
 ## Features
 
 - Classic Breakout gameplay
@@ -29,5 +32,3 @@ Block_game/
 ├── style.css
 ├── main.js
 ├── README.md
-
-![image](https://github.com/user-attachments/assets/d065c7d4-8ecb-459c-b496-1f556d75354b)
